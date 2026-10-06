@@ -1,3 +1,3 @@
-# i-Bridge Drive
+# Dual Drive for Android
 
-i-Bridge Drive の公開ページ（プライバシーポリシーなど）。
+Dual Drive for Android の公開ページ（プライバシーポリシーなど）。
